@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Ticketdetails"></activity>
+        <activity android:name=".cancellation"></activity>
+        <activity android:name=".Ticketdetails" />
         <activity android:name=".confirmation" />
         <activity android:name=".trainselect" />
         <activity android:name=".results" />
